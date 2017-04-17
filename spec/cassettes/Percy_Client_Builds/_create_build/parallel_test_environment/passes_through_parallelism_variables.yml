@@ -6,7 +6,7 @@ http_interactions:
     body:
       encoding: UTF-8
       string: '{"data":{"type":"builds","attributes":{"commit-sha":"fc4d2c2e6b55d995a005dba2d071e2f2fca5e04b","commit-branch":"master","commit-committed-at":"2015-06-09
-        23:22:31 -0700","commit-author-name":"<COMMIT_AUTHOR_NAME>","commit-author-email":"<COMMIT_AUTHOR_EMAIL>","commit-committer-name":"<COMMIT_AUTHOR_NAME>","commit-committer-email":"<COMMIT_AUTHOR_EMAIL>","commit-message":"Fix
+        23:22:31 -0700","commit-author-name":"karl.whatever@gmail.com <U+1F1F8><U+1F1EA>","commit-author-email":"<COMMIT_AUTHOR_EMAIL>","commit-committer-name":"Karl Norling <U+1F1F8><U+1F1EA>","commit-committer-email":"<COMMIT_AUTHOR_EMAIL>","commit-message":"Fix
         test environment issue.","pull-request-number":"123","parallel-nonce":"nonce","parallel-total-shards":2}}}'
     headers:
       User-Agent:
